@@ -7,3 +7,19 @@ https://github.com/SachaIZADI/colorful-world-pix2pix for the GAN structure
 https://github.com/iamkrut/image_inpainting_resnet_unet for the ResNet and UNET
 
 https://github.com/LeviBorodenko/motionblur for the motion blur
+
+requirements:
+cudatoolkit
+flask
+h5py
+keras
+matplotlib
+numpy
+opencv
+pandas
+pillow
+pytorch
+scipy
+torchvision
+Wand
+scikit-image
